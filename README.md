@@ -73,7 +73,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
   <img src="https://streak-stats.demolab.com?user=juandronm&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
+![bar](./bar.svg)
  
 <p align="center">
   <i>"Building intelligent systems, one commit at a time."</i><br><br>
