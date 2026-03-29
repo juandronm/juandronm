@@ -1,0 +1,22 @@
+<svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d4f1c">
+        <animate attributeName="stop-color" values="#0d4f1c;#39d353;#26a641;#0d4f1c" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" stop-color="#26a641">
+        <animate attributeName="stop-color" values="#26a641;#0d4f1c;#39d353;#26a641" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#39d353">
+        <animate attributeName="stop-color" values="#39d353;#26a641;#0d4f1c;#39d353" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" stop-color="#26a641">
+        <animate attributeName="stop-color" values="#26a641;#39d353;#0d4f1c;#26a641" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d4f1c">
+        <animate attributeName="stop-color" values="#0d4f1c;#26a641;#39d353;#0d4f1c" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="6" fill="url(#grad)"/>
+</svg>
