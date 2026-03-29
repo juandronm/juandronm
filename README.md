@@ -74,11 +74,6 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandronm&show_icons=true&theme=merko&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandronm&layout=compact&theme=merko&hide_border=true" height="160" />
-</p>
- 
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=juandronm&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
