@@ -34,7 +34,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 **Languages**
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs,mysql,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs,mysql,postgresql,html,css" />
 </p>
  
 **ML & Data Science**
