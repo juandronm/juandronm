@@ -75,12 +75,12 @@ I'm a **Computer Engineering student** (GPA 3.40/4.00) at Gazi University, Ankar
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandronm&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandronm&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juandronm&show_icons=true&theme=synthwave&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandronm&layout=compact&theme=synthwave&hide_border=true" height="160" />
 </p>
  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=juandronm&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=juandronm&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
  
 ---
