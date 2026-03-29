@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d4f1c,25:1a7a34,50:25a244,75:1a7a34,100:0d4f1c&height=120&section=header&animation=twinkling)
+
 <h1 align="center">Hi, I'm Juan Diego 👋</h1>
  
 <p align="center">
