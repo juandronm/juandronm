@@ -21,10 +21,9 @@
  
 ## 🧠 About Me
  
-I'm a **Computer Engineering student** (GPA 3.40/4.00) at Gazi University, Ankara, with a passion for **Machine Learning, Data Science, and AI**. I'm a fully-funded **Turkish Scholarship** recipient, and I love building things that sit at the intersection of code and intelligence.
+I'm a **Computer Engineering student** at Gazi University, Ankara, with a passion for **Machine Learning, Data Science, and AI**. I love building things that sit at the intersection of code and intelligence.
  
-- 🔭 Currently working on an **Autonomous Ground Vehicle (UGV)** for the TEKNOFEST competition
-- 🌱 Deepening my knowledge in **Deep Learning** and **Computer Vision**
+- 🌱 Deepening my knowledge in **Deep Learning** and **LLM**
 - 🤝 Open to collaborating on ML, data science, or cool side projects
 - 🌍 I speak **Spanish** 🇨🇴 (native), **English** 🇺🇸 (bilingual), **Turkish** 🇹🇷 (professional), and **French** 🇫🇷 (basic)
  
