@@ -31,6 +31,8 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
  
 ## 🛠️ Tech Stack
  
+**Languages**
+ 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs,mysql,ts,html,css" />
 </p>
@@ -38,7 +40,10 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 **ML & Data Science**
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
 </p>
  
 **Tools & Frameworks**
