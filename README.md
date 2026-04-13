@@ -27,7 +27,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
  
 - 🌱 Deepening my knowledge in **Deep Learning** and **LLM**
 - 🤝 Open to collaborating on ML, data science, or cool side projects
-- 🌍 I speak **Spanish** es (native), **English** 🇺🇸 (bilingual), **Turkish** 🇹🇷 (professional), and **French** 🇫🇷 (basic)
+- 🌍 I speak **Spanish** ![Spain](https://img.shields.io/badge/Spain-🇪🇸-red) (native), **English** 🇺🇸 (bilingual), **Turkish** 🇹🇷 (professional), and **French** 🇫🇷 (basic)
  
 ---
  
