@@ -19,7 +19,7 @@
   </a>
 </p>
  
----
+![bar](./bar.svg)
  
 ## 🧠 About Me
  
@@ -29,7 +29,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 - 🤝 Open to collaborating on ML, data science, or cool side projects
 - 🌍 I speak **Spanish** 🇪🇸 (native), **English** 🇺🇸 (bilingual), **Turkish** 🇹🇷 (professional), and **French** 🇫🇷 (basic)
  
----
+![bar](./bar.svg)
  
 ## 🛠️ Tech Stack
  
@@ -54,7 +54,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
   <img src="https://skillicons.dev/icons?i=flask,git,github,gcp,jupyter" />
 </p>
  
----
+![bar](./bar.svg)
  
 ## 📜 Certifications
  
@@ -65,7 +65,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 | Google Cloud Skills Boost | Google | Aug 2025 |
 | Introduction to Data Science | Cisco | Mar 2025 |
  
----
+![bar](./bar.svg)
  
 ## 📊 GitHub Stats
  
