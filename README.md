@@ -64,6 +64,7 @@ I'm a **Computer Engineering student** at Gazi University, Ankara, with a passio
 | The Complete Python Pro Bootcamp | The London App Brewery | Aug 2025 |
 | Google Cloud Skills Boost | Google | Aug 2025 |
 | Introduction to Data Science | Cisco | Mar 2025 |
+| Claude Code 101 | Anthropic | Jun 2026 |
  
 ![bar](./bar.svg)
  
