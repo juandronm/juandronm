@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Juan%20Diego%20Ron%20Molina&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<h1>Juan Diego Ron Molina</h1>
+<h3>Aspiring AI & ML Engineer</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+Gazi+University;Computer+Vision+%7C+YOLO+%7C+RTSP+Pipelines;Building+LLM-powered+tools;Always+shipping+something" alt="Typing SVG" />
