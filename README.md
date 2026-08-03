@@ -97,10 +97,10 @@ YOLO-based pose detection system for tracking office presence, built through a f
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 UGV Autonomous Navigation (TEKNOFEST)
-Unmanned ground vehicle for TEKNOFEST — autonomous navigation using LiDAR + YOLO on ROS2, from perception to path planning.
+### 🗣️ Personal Voice Assistant
+A voice assistant built around Hugging Face TTS/STT models — handled model-compatibility debugging and speech pipeline wiring end to end.
 
-`ROS2` `LiDAR` `YOLO` `Autonomous Nav`
+`Python` `Hugging Face` `Speech Pipelines`
 
 </td>
 <td width="50%" valign="top">
