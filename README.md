@@ -32,7 +32,7 @@
 I'm a Computer Engineering student who lives at the intersection of computer vision and applied ML — training and deploying models that run on real camera streams, not just notebooks.
 
 ```yaml
-role:          Computer Vision Intern @ YourEye Technologies
+role:          Computer Vision Engineer @ YourEye Technologies
 studying:      B.Sc. Computer Engineering, Gazi University (Grad: Jul 2027)
 building_now:  YOLO-based detection pipelines · GPU-optimized inference
 learning_now:  Advanced Deep Learning · LLM/RAG integration · ML deployment at scale
