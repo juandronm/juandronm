@@ -132,8 +132,6 @@ A Pokémon-style 2D game built in JavaFX — sprite-based movement, battle syste
   <img src="https://raw.githubusercontent.com/juandronm/juandronm/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
 </div>
 
-> Snake animation needs a one-time GitHub Action setup — see [Platane/snk](https://github.com/Platane/snk). Remove this block if you'd rather skip it.
-
 <br/>
 
 ## 📜 Certifications
