@@ -124,12 +124,10 @@ A Pokémon-style 2D game built in JavaFX — sprite-based movement, battle syste
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandronm&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandronm&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=juandronm&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=juandronm&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="42%" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=juandronm&theme=merko&hide_border=true" alt="GitHub Streak Stats" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/juandronm/juandronm/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/wakatime?username=juandronm&theme=merko&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
