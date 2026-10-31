@@ -1,20 +1,20 @@
 <svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0d4f1c">
-        <animate attributeName="stop-color" values="#0d4f1c;#39d353;#26a641;#0d4f1c" dur="4s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#00c9a7;#2c5364;#0f2027" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="25%" stop-color="#26a641">
-        <animate attributeName="stop-color" values="#26a641;#0d4f1c;#39d353;#26a641" dur="4s" repeatCount="indefinite"/>
+      <stop offset="25%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#0f2027;#00c9a7;#2c5364" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#39d353">
-        <animate attributeName="stop-color" values="#39d353;#26a641;#0d4f1c;#39d353" dur="4s" repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#00c9a7">
+        <animate attributeName="stop-color" values="#00c9a7;#2c5364;#0f2027;#00c9a7" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="75%" stop-color="#26a641">
-        <animate attributeName="stop-color" values="#26a641;#39d353;#0d4f1c;#26a641" dur="4s" repeatCount="indefinite"/>
+      <stop offset="75%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#00c9a7;#0f2027;#2c5364" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#0d4f1c">
-        <animate attributeName="stop-color" values="#0d4f1c;#26a641;#39d353;#0d4f1c" dur="4s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#2c5364;#00c9a7;#0f2027" dur="4s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
