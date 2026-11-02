@@ -10,11 +10,11 @@
 
 <br/><br/>
 
+<a href="https://juandronm.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=00C9A7" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/juan-ron-7506a3292"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00C9A7" alt="LinkedIn" /></a>
 <a href="mailto:juanronmolina@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00C9A7" alt="Email" /></a>
 <a href="https://github.com/juandronm"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00C9A7" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Currently-CV%20Engineer%20%40%20YourEye-00C9A7?style=flat-square&labelColor=0d1117" alt="Currently CV Engineer at YourEye" />
-
 <br/><br/>
 
 <img src="./bar.svg" width="100%" height="4" alt="" />
