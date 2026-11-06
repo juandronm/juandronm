@@ -1,0 +1,34 @@
+name: Update streak card
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 * * * *"   # every hour, catches commits made in your other repos
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download fresh streak cards
+        run: |
+          mkdir -p assets
+          BASE="https://streak-stats.demolab.com?user=juandronm&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&stroke=30363D&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E"
+          # the extra "t" parameter makes every request unique, so no cached copy is reused
+          curl -fsSL "${BASE}&t=$(date +%s)" -o assets/streak.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh streak card [skip ci]"
+          git pull --rebase
+          git push

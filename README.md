@@ -138,7 +138,7 @@ A Pokémon-style 2D game built in JavaFX — sprite-based movement, battle syste
 </td>
 <td valign="top" width="42%">
   <img src="https://ghstats.dev/api/langs?username=juandronm&layout=bar&theme=merko&hide_border=true" alt="Top Languages" width="100%" />
-  <img src="https://streak-stats.demolab.com?user=juandronm&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&stroke=30363D&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="100%" />
+  <img src="./assets/streak.svg" alt="GitHub Streak Stats" width="100%" />
 </td>
 </tr>
 </table>
